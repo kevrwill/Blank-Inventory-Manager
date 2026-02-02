@@ -2,12 +2,13 @@
 /**
  * Plugin Name: Blank Inventory Manager for WooCommerce
  * Plugin URI: https://gargantuanorangutan.com
- * Description: Manages blank t-shirt inventory that's shared across multiple custom printed products. Automatically deducts from blank stock when custom products are sold.
- * Version: 1.2.0
+ * Description: Manages blank products inventory that's shared across multiple custom printed products. Automatically deducts from blank stock when custom products are sold.
+ * Version: 1.2.1
  * Author: G.O.
  * Author URI: https://gargantuanorangutan.com
  * Text Domain: blank-inventory-manager
  * Domain Path: /languages
+ * Requires Plugins: woocommerce
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * WC requires at least: 5.0
