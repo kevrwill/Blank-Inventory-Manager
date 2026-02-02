@@ -3,7 +3,7 @@
  * Plugin Name: Blank Inventory Manager for WooCommerce
  * Plugin URI: https://gargantuanorangutan.com
  * Description: Manages blank products inventory that's shared across multiple custom printed products. Automatically deducts from blank stock when custom products are sold.
- * Version: 1.2.1
+ * Version: 1.2.0
  * Author: G.O.
  * Author URI: https://gargantuanorangutan.com
  * Text Domain: blank-inventory-manager
@@ -35,7 +35,7 @@ class Blank_Inventory_Manager {
     /**
      * Plugin version
      */
-    const VERSION = '1.2.1';
+    const VERSION = '1.2.0';
     
     /**
      * Instance of this class
