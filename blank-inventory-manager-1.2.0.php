@@ -8,7 +8,7 @@
  * Author URI: https://gargantuanorangutan.com
  * Text Domain: blank-inventory-manager
  * Domain Path: /languages
- * Requires Plugins: woocommerce
+ * Requires Plugins: woocommerce 
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * WC requires at least: 5.0
